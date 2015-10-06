@@ -1,0 +1,261 @@
+div.container {
+  margin: 0 auto;
+  max-width: 625px;
+  width: 100%;
+}
+
+ul{
+  background-color: #5E0000;
+  padding: 15px 25px 15px 25px;
+  margin: 0;
+  list-style-type: disc;
+  color: white;
+}
+
+li {
+  display: inline-block;
+  font-style: normal;
+  font-family: 'Helvetica', sans-serif;
+
+}
+
+a {
+  color: #ffffff;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 0 0 0 5px;
+}
+
+a.index {
+  color: #ffffff;
+  font-family: 'Helvetica', sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+section.second {
+  background-color: Red;
+  height: 385px;
+}
+
+section.third div {
+  padding: 64px 0 32px 10px;
+}
+
+section.third {
+  background-color: Maroon;
+  height: 225px;
+  margin: 64px 10px 32px 10px;
+  padding: 0 0 32px 0;
+}
+
+section.fourth {
+  background-color: Maroon;
+  height: 225px;
+  margin: 64px 10px 32px 10px;
+  padding: 0 0 32px 0;
+}
+
+section.fifth {
+  background-color: Maroon;
+  height: 225px;
+  margin: 64px 10px 32px 10px;
+  padding: 0 0 32px 0;
+}
+
+section.sixth {
+  background-color: Maroon;
+  height: 225px;
+  margin: 64px 10px 32px 10px;
+  padding: 0 0 32px 0;
+}
+
+section.seventh {
+  background-color: #280000;
+  height: 917px;
+}
+
+section.eigth {
+  background-color: red;
+  padding: 140px 32px 70px 32px;
+}
+
+section.eigth div {
+  background-color: pink;
+  height: 225px;
+}
+
+section.ninth {
+  background-color: #280000;
+  height: 204px;
+}
+
+ul.two {
+  background-color: #2B3D51;
+  padding: 15px 25px 15px 25px;
+  margin: 0;
+}
+
+ul.two li {
+  display: inline-block;
+  font-style: normal;
+  font-family: 'Helvetica', sans-serif;
+  list-style-type: disc
+}
+
+section.a {
+  background-color: #008AD9;
+  padding: 155px 165px 5px 165px;
+}
+section.a div {
+  background-color: #008AD9;
+  border: medium solid white;
+  height: 60px;
+}
+
+section.one {
+  background-color: #008AD9;
+  padding: 5px 165px 10px 165px;
+}
+
+section.one div {
+  background-color: #B8E1F9;
+  height: 45px;
+}
+
+section.two {
+  background-color: #008AD9;
+  padding: 5px 225px 50px 225px;
+}
+
+section.two div {
+  background-color: #ffffff;
+  height: 35px;
+}
+
+section.b {
+  background-color: #ffffff;
+  padding: 40px 0 18px 0;
+}
+
+section.b div {
+  background-color: #2B3D51;
+  height: 44px;
+}
+
+section.c {
+  background-color: #ffffff;
+  padding: 17px 20px 17px 20px;
+}
+
+section.c div {
+  background-color: #008AD9;
+  height: 135px;
+}
+section.d {
+  background-color: #ffffff;
+  padding: 18px 20px 17px 20px;
+}
+
+section.d div {
+  background-color: #008AD9;
+  height: 135px;
+}
+section.e {
+  background-color: #ffffff;
+  padding: 17px 20px 17px 20px;
+}
+
+section.e div {
+  background-color: #008AD9;
+  height: 135px;
+}
+section.f {
+  background-color: #ffffff;
+  padding: 18px 20px 17px 20px;
+}
+
+section.f div {
+  background-color: #008AD9;
+  height: 135px;
+}
+section.g {
+  background-color: #2B3D51;
+  padding: 25px 25px 25px 25px;
+}
+
+section.g div {
+  background-color: #8E9DAC;
+  height: 375px;
+}
+
+section.h {
+  background-color: #ffffff;
+  padding: 40px 0 18px 0;
+}
+
+section.h div {
+  background-color: #2B3D51;
+  height: 44px;
+}
+
+section.i {
+  background-color: #ffffff;
+  padding: 25px 25px 25px 25px;
+}
+
+section.i div {
+  background-color: #7C8D8D;
+  height: 275px;
+}
+
+section.j {
+  background-color: #ffffff;
+  padding: 25px 25px 25px 25px;
+}
+
+section.j div {
+  background-color: #2B3D51;
+  height: 20px;
+}
+
+section.k {
+  background-color: #ffffff;
+  padding: 25px 25px 25px 25px;
+}
+
+section.k div {
+  background-color: #7C8D8D;
+  height: 110px;
+}
+
+section.l {
+  background-color: #ffffff;
+  padding: 25px 25px 25px 25px;
+}
+
+section.l div {
+  background-color: #2B3D51;
+  height: 20px;
+}
+
+section.m {
+  background-color: #ffffff;
+  padding: 25px 25px 25px 25px;
+}
+
+section.m div {
+  background-color: #7C8D8D;
+  height: 110px;
+}
+
+section.n {
+  background-color: #000000;
+  padding: 15px 15px 15px 15px;
+}
+
+section.n div {
+  background-color: #7C8D8D;
+  height: 45px;
+}

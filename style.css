@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: 'Helvetica', sans-serif;
+}
+
+main {
+  overflow: auto;
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+section {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.masthead {
+  text-align: center;
+  background-color: #ededed;
+  padding: 15px 10px 8px 10px;
+}
+
+.masthead h1 {
+  margin: 0;
+}
+
+.content{
+  width: 80%;
+  padding: 15px;
+  float: left;
+}
+
+.sidebar li.active a {
+  font-weight: bold;
+  color: green;
+}
+
+.articles h2 {
+  padding: 15px;
+  color: blue;
+}
+
+.articles article {
+  margin: 0 0 40px 0;
+  padding: 0 0 15px 0;
+  border-bottom: 1px solid red;
+  width: 80%;
+}
+
+.sidebar {
+  float: left;
+}
+
+.centered {
+  text-align: center;
+}
